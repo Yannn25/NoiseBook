@@ -1,0 +1,121 @@
+id_user,nom_lieu,adresse,ville,region,capacité,exterieur,enfant,is_lieu
+301,Le Batofar,500 Anzinger Street,Orange,Provence-Alpes-Côte d'Azur,191529,false,false,true
+302,Le Trianon de la Porte de la Bourse,51 Shasta Place,Aix-en-Provence,Provence-Alpes-Côte d'Azur,174093,true,false,true
+303,Le Nouveau Casino,72046 Macpherson Hill,Orléans,Centre,85906,false,false,true
+304,Le Faust,32 Pleasure Terrace,Cannes,Provence-Alpes-Côte d'Azur,100756,false,false,true
+305,Le Trianon de la Madeleine,48 Nova Crossing,Champagnole,Franche-Comté,41256,false,false,true
+306,Le Trianon de la Nation,169 Trailsway Alley,Cavaillon,Provence-Alpes-Côte d'Azur,114062,false,false,true
+307,Le Trianon de la Porte de la Chapelle,4715 Tennessee Hill,Courtaboeuf,Île-de-France,172157,false,false,true
+308,Palais des Sports,99259 Orin Alley,Belfort,Franche-Comté,163740,true,false,true
+309,Le Trianon de la Nation,3473 Sutteridge Way,Paris La Défense,Île-de-France,176097,true,false,true
+310,La Cigale,840 Claremont Terrace,Istres,Provence-Alpes-Côte d'Azur,142210,false,false,true
+311,Le Point Ephémère,18345 Canary Lane,Marseille,Provence-Alpes-Côte d'Azur,183353,false,true,true
+312,Le Social Club,73533 Mendota Circle,Lannion,Bretagne,139654,true,true,true
+313,Le Pop-Up du Label,9943 Ludington Terrace,Paris 11,Île-de-France,174045,false,true,true
+314,La Seine Musicale,70684 Oneill Trail,Le Perreux-sur-Marne,Île-de-France,119816,false,true,true
+315,Le Trianon de Verre,9630 Schiller Street,Rambouillet,Île-de-France,177547,true,true,true
+316,Olympia,356 Johnson Circle,Fontenay-sous-Bois,Île-de-France,176381,true,true,true
+317,Le Trianon de la Nation,2 Claremont Street,Rennes,Bretagne,150552,false,true,true
+318,Le Trianon de la Porte de Versailles,06056 Fuller Parkway,Cergy-Pontoise,Île-de-France,2369,false,true,true
+319,Le Point Ephémère,504 Transport Junction,Rueil-Malmaison,Île-de-France,128986,true,false,true
+320,La Maroquinerie,7 Coolidge Street,Blois,Centre,192858,true,true,true
+321,Le Trianon de la Porte de la Goutte d'Or,0469 Eggendart Park,Vittel,Lorraine,104435,true,false,true
+322,Le Bus Palladium,421 Thierer Street,Metz,Lorraine,83990,true,false,true
+323,Le Trianon de la Bourse,3 Acker Crossing,Paris 03,Île-de-France,150840,true,true,true
+324,Le Trianon de la Porte de la Villette,24644 Hayes Circle,Nice,Provence-Alpes-Côte d'Azur,40368,true,false,true
+325,Le Trianon de la Porte de l'Opéra,00 Sundown Point,Nanterre,Île-de-France,101460,true,false,true
+326,Le Trianon de la Porte de la Roquette,77302 Myrtle Road,Provo,Utah,28469,false,false,true
+327,Le Hasard Ludique,058 Trailsway Way,Évry,Île-de-France,172939,false,true,true
+328,Le Réservoir,8632 Hazelcrest Crossing,Orléans,Centre,180150,true,true,true
+329,Le Trianon de la Porte de la Goutte d'Or,90 Crest Line Parkway,Saint-Brieuc,Bretagne,98930,false,true,true
+330,Le Supersonic,8 Armistice Way,Caen,Basse-Normandie,155608,false,false,true
+331,Le Zig Zag Club,26665 Swallow Junction,Saint-Leu-la-Forêt,Île-de-France,41075,false,false,true
+332,Le Batofar,102 Emmet Crossing,Golbey,Lorraine,186174,false,true,true
+333,Le Wanderlust,9184 Brown Lane,Saint-Brieuc,Bretagne,37489,true,true,true
+334,Le Trianon de la Porte de la Chapelle,2 Kipling Pass,Vienne,Rhône-Alpes,11244,true,false,true
+335,Le Pop-Up du Label,86 Eggendart Pass,Marseille,Provence-Alpes-Côte d'Azur,22229,false,true,true
+336,Le Balajo,936 Oakridge Trail,Thionville,Lorraine,38180,false,true,true
+337,Le Trianon de la Porte de Montmartre,358 Bashford Center,Charleston,West Virginia,120913,false,true,true
+338,Le Bus Palladium,849 Manitowish Way,Blois,Centre,80994,false,false,true
+339,Le Supersonic,5790 Lakewood Place,Clamart,Île-de-France,9835,true,true,true
+340,Le Showcase,827 Scoville Way,Nanterre,Île-de-France,194860,true,false,true
+341,Le Trianon de la Sorbonne,88 Algoma Center,Meudon,Île-de-France,28605,true,false,true
+342,Le Trianon de la Madeleine,08956 Schlimgen Plaza,Sochaux,Franche-Comté,96435,false,true,true
+343,Le Nouveau Cap,5 Stone Corner Place,Tassin-la-Demi-Lune,Rhône-Alpes,177526,false,true,true
+344,Le Réservoir,824 Glacier Hill Drive,Vandœuvre-lès-Nancy,Lorraine,65625,true,false,true
+345,Le Pop-Up du Label,3 Stang Avenue,Orléans,Centre,157713,false,true,true
+346,Le Zénith de Paris,4 Carpenter Trail,Poligny,Franche-Comté,47038,true,true,true
+347,Le Rex Club,9 Ridge Oak Way,Saint-Avertin,Centre,1851,true,true,true
+348,Le Gibus Club,21098 Arkansas Junction,Paris La Défense,Île-de-France,35732,true,true,true
+349,La Seine Musicale,8 Tomscot Court,Blois,Centre,40295,true,true,true
+350,La Seine Musicale,3452 Petterle Junction,Orléans,Centre,18069,false,false,true
+351,Le Trianon Rive Gauche,10489 Ruskin Circle,Vernon,Haute-Normandie,140884,false,true,true
+352,Le Trianon Rive Gauche,0 Del Mar Center,Cluses,Rhône-Alpes,89993,true,false,true
+353,Le Nouveau Cap,8 Morrow Street,Paris 08,Île-de-France,4728,false,true,true
+354,Le Trianon de la Porte de la Villette,47 Hooker Place,Montluçon,Auvergne,44744,true,true,true
+355,Le Trianon de la Porte de Versailles,472 Sachs Pass,Sarrebourg,Lorraine,162685,false,false,true
+356,Zénith de Paris,77 Darwin Park,Grenoble,Rhône-Alpes,181728,true,true,true
+357,Le Bataclan,836 Dawn Place,Rennes,Bretagne,125195,true,false,true
+358,Le Trianon Transatlantique,91223 Orin Crossing,Nanterre,Île-de-France,16121,false,false,true
+359,Le Trianon de la Bourse,09 Sullivan Street,Sannois,Île-de-France,173644,true,true,true
+360,Le Concrete,59 Garrison Hill,Évry,Île-de-France,123154,false,true,true
+361,Le Divan du Monde,10 Saint Paul Park,Nice,Provence-Alpes-Côte d'Azur,190854,true,true,true
+362,La Maroquinerie,4680 Union Junction,Granville,Basse-Normandie,25161,true,false,true
+363,Le Trianon de la Porte de la Défense,2804 Montana Street,Blois,Centre,108178,false,true,true
+364,La Cigale,807 Ludington Point,Charenton-le-Pont,Île-de-France,124836,false,false,true
+365,Le Trianon de l'Opéra,7018 Darwin Trail,Melun,Île-de-France,178916,false,true,true
+366,Le Divan du Monde,9353 Graedel Crossing,Marseille,Provence-Alpes-Côte d'Azur,196225,false,false,true
+367,Le Trianon de l'Opéra,0658 Sherman Junction,Saint-Maurice-l'Exil,Rhône-Alpes,191349,false,true,true
+368,Le Cabaret Sauvage,268 Huxley Pass,Marseille,Provence-Alpes-Côte d'Azur,45352,true,false,true
+369,La Cigale,6523 Weeping Birch Alley,Carpiquet,Basse-Normandie,172725,false,false,true
+370,Le Pop-Up du Label,2 Havey Crossing,Vancouver,Washington,152806,true,false,true
+371,AccorHotels Arena,81655 Fair Oaks Place,Caen,Basse-Normandie,44765,true,true,true
+372,AccorHotels Arena,2328 Merrick Center,Soisy-sous-Montmorency,Île-de-France,188738,false,false,true
+373,Le Petit Bain,66323 Talmadge Plaza,Cergy-Pontoise,Île-de-France,120236,false,false,true
+374,Le Réservoir,382 Cambridge Way,Le Lamentin,Martinique,104451,false,true,true
+375,Le Trianon de la Sorbonne,44 Vidon Hill,Marseille,Provence-Alpes-Côte d'Azur,138157,true,false,true
+376,Le Trianon de la Villette,6 Towne Court,Neuilly-sur-Seine,Île-de-France,4616,true,false,true
+377,Le Trianon de la Sorbonne,46 Summer Ridge Street,Besançon,Franche-Comté,106846,true,true,true
+378,Le Trianon de Verre,7998 Hudson Alley,Villejuif,Île-de-France,130377,false,false,true
+379,La Cigale,89413 Eastlawn Road,Arles,Provence-Alpes-Côte d'Azur,102411,false,true,true
+380,Le Glazart,0234 Chinook Parkway,Bourg-lès-Valence,Rhône-Alpes,106655,true,false,true
+381,Le Hasard Ludique,597 Main Way,Rueil-Malmaison,Île-de-France,101171,true,true,true
+382,Le Hasard Ludique,55 Atwood Road,Caluire-et-Cuire,Rhône-Alpes,152191,true,false,true
+383,Le Flow,05357 Swallow Lane,Évreux,Haute-Normandie,19491,false,true,true
+384,Le Yoyo - Palais de Tokyo,1 Duke Terrace,Guyancourt,Île-de-France,1838,true,false,true
+385,Le Divan du Monde,4822 Ridge Oak Drive,Paris 11,Île-de-France,91429,true,false,true
+386,Le Trianon de la Porte de la Bourse,40754 Thompson Pass,Rueil-Malmaison,Île-de-France,99631,true,true,true
+387,Le Concrete,99092 Loomis Road,Bezons,Île-de-France,8862,true,false,true
+388,Le Trianon de la Sorbonne,205 Clyde Gallagher Point,Fort-de-France,Martinique,17266,true,false,true
+389,Le Nouveau Cap,00 Mitchell Circle,Orléans,Centre,137989,false,false,true
+390,Le Trianon de la Butte,20 Merrick Place,Clermont-Ferrand,Auvergne,90245,true,false,true
+391,Le Trianon,70 Nancy Way,Paris 05,Île-de-France,114919,true,true,true
+392,Le Bus Palladium,1318 Rusk Drive,Gardanne,Provence-Alpes-Côte d'Azur,510,false,true,true
+393,Le Trianon de la Butte,56477 Johnson Center,Paris 12,Île-de-France,168652,true,true,true
+394,Le Faust,7069 Vidon Lane,Nice,Provence-Alpes-Côte d'Azur,132375,false,false,true
+395,La Seine Musicale,9971 Butternut Street,Paris 11,Île-de-France,135347,true,true,true
+396,Le Trianon de la Défense,0749 Dorton Alley,Bernay,Haute-Normandie,48741,false,true,true
+397,Le Trianon de la Madeleine,0229 Bowman Road,Coulommiers,Île-de-France,105380,true,false,true
+398,Le Trianon Rive Gauche,1 Bluestem Terrace,Orléans,Centre,83034,false,true,true
+399,Le Petit Bain,31 Haas Junction,Meylan,Rhône-Alpes,17847,true,false,true
+400,Le Point Ephémère,136 Harper Terrace,Voiron,Rhône-Alpes,29388,false,true,true
+401,Le Nouveau Cap,07129 Harbort Drive,Paris 19,Île-de-France,12111,true,true,true
+402,Le Trianon de la Porte de la Bourse,71833 Menomonie Road,Chartres,Centre,199435,false,false,true
+403,Le Trianon de la Villette,335 Mendota Center,Massy,Île-de-France,146658,false,true,true
+404,Le Trianon de la Porte de la Plaine,530 Scofield Park,Neuilly-sur-Seine,Île-de-France,13526,false,false,true
+405,Le Social Club,4 Caliangt Junction,Roissy Charles-de-Gaulle,Île-de-France,184720,true,true,true
+406,Le Hasard Ludique,0363 Summerview Circle,Champagnole,Franche-Comté,22747,false,true,true
+407,Le Flow,9758 Welch Hill,Paris 09,Île-de-France,131066,false,false,true
+408,La Seine Musicale,5104 Hayes Park,Villefontaine,Rhône-Alpes,7065,true,true,true
+409,Le Trianon,109 Summit Place,Bourg-en-Bresse,Rhône-Alpes,172119,true,true,true
+410,Le Social Club,6 Haas Parkway,Nancy,Lorraine,133122,true,false,true
+411,Bercy Arena,12596 Meadow Ridge Court,Paris 01,Île-de-France,53037,false,true,true
+412,La Seine Musicale,459 Welch Alley,Seattle,Washington,74109,false,false,true
+413,Bercy Arena,79 Buhler Parkway,Évry,Île-de-France,65270,false,false,true
+414,Le Batofar,0809 Dovetail Way,Jarry,Guadeloupe,110721,false,false,true
+415,Le Trianon de la Porte de la Bastille,109 Calypso Plaza,Bourges,Centre,136463,true,true,true
+416,Le Trianon de la Porte de la Bastille,0827 Aberg Place,Villejuif,Île-de-France,99863,true,true,true
+417,Le Trianon de la Porte de la Goutte d'Or,92394 Ridgeway Street,Salt Lake City,Utah,185888,false,true,true
+418,Le Trianon de la Sorbonne,8541 Waywood Plaza,Tours,Centre,129728,true,true,true
+419,Le Trianon Transatlantique,1 Katie Alley,Nancy,Lorraine,6452,true,true,true
+420,Le Trianon Palace,5 Mockingbird Place,Créteil,Île-de-France,75277,false,true,true
